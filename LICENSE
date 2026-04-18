@@ -1,0 +1,20 @@
+Copyright (c) 2024 Patrice PORTEMANN (Noetic Industries)
+All rights reserved.
+
+REDISTRIBUTION AND COMMERCIAL USE PROHIBITED
+=============================================
+This software and its associated mathematical formalisms (including but not limited to topological state-space decomposition and Atangana-Baleanu fractional calculus integration) are the exclusive intellectual property of Patrice PORTEMANN.
+
+Permission is hereby granted to download, compile, and execute this software 
+STRICTLY for academic research, algorithmic evaluation, and non-commercial testing purposes.
+
+You are NOT permitted to:
+1. Integrate this code, in whole or in part, into any commercial product, 
+   internal proprietary pipeline, or hardware (including but not limited to 
+   optical processors, HPC clusters, or medical devices).
+2. Distribute modified or unmodified copies of this software to third parties.
+3. Use the underlying mathematical architecture described in the code to 
+   train, infer, or solve systems without explicit written authorization.
+
+For licensing inquiries, commercial integration, or technology transfer:
+Contact: [contact@portemann.eu]
